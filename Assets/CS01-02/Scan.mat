@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlowEmiss:
-        m_Texture: {fileID: 2800000, guid: 1117190c8fbffac48adbdad775b19623, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4a835fbf77f35c44baa7a9f1703e6b1f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:

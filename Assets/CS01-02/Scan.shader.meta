@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9f0ea3e74e76f6b43925ced4735041bb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _FlowEmiss: {fileID: 2800000, guid: 17b7354a64cd4df4dafc2a57b83be7ea, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
